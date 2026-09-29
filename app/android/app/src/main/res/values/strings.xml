@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Quadrille</string>
+    <string name="title_activity_main">Quadrille</string>
+    <string name="package_name">com.matheo.quadrille</string>
+    <string name="custom_url_scheme">com.matheo.quadrille</string>
+</resources>

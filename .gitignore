@@ -1,0 +1,11 @@
+node_modules/
+*.apk
+.DS_Store
+app/android/app/build/
+app/android/build/
+app/android/.gradle/
+app/android/local.properties
+app/android/.idea/
+app/ios/App/build/
+app/ios/DerivedData/
+xcuserdata/

@@ -1,0 +1,18 @@
+{
+  "appId": "com.matheo.quadrille",
+  "appName": "Quadrille",
+  "webDir": "www",
+  "android": {
+    "backgroundColor": "#E8ECF2"
+  },
+  "ios": {
+    "backgroundColor": "#E8ECF2",
+    "contentInset": "never"
+  },
+  "plugins": {
+    "SystemBars": {
+      "insetsHandling": "native",
+      "initialViewportFitValueHint": "cover"
+    }
+  }
+}
